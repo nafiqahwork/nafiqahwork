@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights; Certified Business Analytics and AI;One Dataset at a time" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm Afiqah, in oversized green hoodie, where one of her dreams stitched softly across her chest. an MBA student in Business Analytics & AI at Sungkyunkwan University. From KLCC city lights to Namsan tower nights, just chasing her loud business dreams inspired by her late grandfather.
+I'm Afiqah, in oversized green hoodie, where one of her dreams stitched softly across her chest. An MBA graduate in Business Analytics & AI at Sungkyunkwan University. From KLCC city lights to Namsan tower nights, just chasing her loud business dreams inspired by her late grandfather.
 I'm currently diving deeper into the world of data and coding, learning how to transform messy datasets into clear insights using Python, SQL, and data visualization. I enjoy exploring complex problems, discovering patterns, and building data-driven stories that support better business decisions.
 
 Still learning, still building — one dataset at a time.
