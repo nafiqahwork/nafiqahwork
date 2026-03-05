@@ -19,7 +19,7 @@ I'm currently diving deeper into the world of data and coding, learning how to t
 Still learning, still building — one dataset at a time.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://nafiqahwork.github.io/)
+### [🏆 Click here to see my portfolio](https://nafiqahwork.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
