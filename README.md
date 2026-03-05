@@ -1,14 +1,17 @@
 ## Hi there, I'm Afiqah 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analytics+%26+AI+;Accounting+%26+Finance;Turning+Data+into+Actionable+Insights" alt="Typing SVG" /></a>
-  
-<!-- 🔗 Update these links with your own social media and contact information -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analytics+%26+AI;Accounting+%26+Finance;Turning+Data+into+Actionable+Insights" />
+</div>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nurr-afiqahh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:nafiqah.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nurr-afiqahh/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:nafiqah.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ## 🚀 About Me 
@@ -38,7 +41,7 @@ Still learning, still building — one dataset at a time.
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Adnvaced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
