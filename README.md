@@ -13,8 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm Afiqah, in oversized green hoodie, where one of her dreams stitched softly across her chest. An MBA graduate in Business Analytics & AI at Sungkyunkwan University. From KLCC city lights to Namsan tower nights, just chasing her loud business dreams inspired by her late grandfather.
-I'm currently diving deeper into the world of data and coding, learning how to transform messy datasets into clear insights using Python, SQL, and data visualization. I enjoy exploring complex problems, discovering patterns, and building data-driven stories that support better business decisions.
+I'm Afiqah, an MBA graduate in Business Analytics & AI at Sungkyunkwan University. From KLCC city lights to Namsan tower nights, just chasing her loud business dreams inspired by her late grandfather. I'm currently diving deeper into the world of data and coding, learning how to transform messy datasets into clear insights using Python, SQL, and data visualization. I enjoy exploring complex problems, discovering patterns, and building data-driven stories that support better business decisions.
 
 Still learning, still building — one dataset at a time.
 
