@@ -1,7 +1,9 @@
 ## Hi there, I'm Afiqah 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analytics+%26+AI;Accounting+%26+Finance;Turning+Data+into+Actionable+Insights" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MBA+in+Business+Analytics+%26+AI;Degree+in+Accounting+%26+Finance;Turning+Data+into+Actionable+Insights;Business+Analyst" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
