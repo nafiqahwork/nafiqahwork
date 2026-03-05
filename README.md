@@ -1,4 +1,4 @@
-## Hi there, I'm [Afiqah] 👋
+## Hi there, I'm Afiqah 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -13,29 +13,27 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm Afiqah, in oversized green hoodie, where one of her dreams stitched softly across her chest. an MBA student in Business Analytics & AI at Sungkyunkwan University. From KLCC city lights to Namsan tower nights, just chasing her loud business dreams inspired by her late grandfather.
+I'm currently diving deeper into the world of data and coding, learning how to transform messy datasets into clear insights using Python, SQL, and data visualization. I enjoy exploring complex problems, discovering patterns, and building data-driven stories that support better business decisions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Still learning, still building — one dataset at a time.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://nafiqahwork.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+📊 E-commerce Data Analytics: Analyzing global transactions to uncover revenue leakage and market risks  
+📈 Sales Trend Analysis: Exploring seasonality and international market performance  
+👥 Customer Retention Insights: Identifying loyal wholesale buyers and repeat purchase behavior  
+📦 Product Profitability: Detecting high-margin products using Python and SQL
 
 ## 🌱 Currently Learning 
+• Strengthening SQL skills for advanced data querying and analysis  
+• Building interactive dashboards with Power BI and Tableau  
+• Improving Python for data analysis and visualization  
+• Exploring business analytics techniques for real-world datasets
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
@@ -43,7 +41,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Adnvaced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
@@ -55,7 +53,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
