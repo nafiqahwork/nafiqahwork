@@ -31,7 +31,7 @@ Still learning, still building — one dataset at a time.
 ---
       
 #### 🌱 What I'm Currently Working On 
-<p>
+
 • Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
 • Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
 • Customer Analytics** – Studying purchasing behavior and retention patterns  
@@ -40,7 +40,7 @@ Still learning, still building — one dataset at a time.
 ---
 
 #### 🌱 Currently Learning more in detail
-<p>
+
 • Power BI – Interactive dashboards and business reporting  
 • SQL – Data extraction, joins, and analytical queries 
 • DAX – KPI modeling and business metrics  
@@ -49,8 +49,8 @@ Still learning, still building — one dataset at a time.
 ---
 
 #### Featured Projects
-<p>
-🚕 **NYC Taxi Pricing Optimization**  
+
+🚕 **NYC Taxi Pricing Optimization**
     Machine learning models used to redesign congestion surcharge pricing for fairness and revenue optimization.
 
 📦 **Global E-commerce Transaction Audit**  
