@@ -24,14 +24,14 @@ Still learning, still building — one dataset at a time.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Click here to see my portfolio](https://nafiqahwork.github.io/)
       
-## 🔭 What I'm Currently Working On 
+#### 🔭 What I'm Currently Working On 
 
 📊 Power BI Dashboard Projects: Creating interactive dashboards for sales, customer, and product analytics
 📈 Business Performance Monitoring: Visualizing KPIs to track revenue trends, seasonal demand, and market growth
 👥 Customer Analytics: Analyzing purchasing behavior and retention patterns through BI storytelling
 📦 Product Insights: Building dashboards to highlight high-performing and high-margin products
 
-## 🌱 Currently Learning more in detail
+#### 🌱 Currently Learning more in detail
 • Power BI – Interactive dashboards and business reporting  
 • SQL – Data extraction, joins, and analytical queries 
 • DAX – KPI modeling and business metrics  
