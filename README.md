@@ -16,7 +16,7 @@
 </a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm Afiqah, an MBA graduate in Business Analytics & AI at Sungkyunkwan University. With background of Accounting and Finance, I'm currently diving deeper into the world of data and coding, learning how to transform messy datasets into clear insights using Python, SQL, and data visualization. I enjoy exploring business complex problems, discovering patterns, and building data-driven stories that support better business decisions.
 
 Still learning, still building — one dataset at a time.
@@ -24,22 +24,23 @@ Still learning, still building — one dataset at a time.
 ---
 
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Click here to see my portfolio](https://nafiqahwork.github.io/)
+<!--  Replace "your-username" with your actual GitHub username -->
+### [🌐 Click here to see my portfolio](https://nafiqahwork.github.io/)
 
 
 ---
       
-#### What I'm Currently Working On 
-
-📊 **Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
-📈 **Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
-👥 **Customer Analytics** – Studying purchasing behavior and retention patterns  
-📦 **Product Performance Insights** – Identifying high-margin and high-impact products
+#### 🌱 What I'm Currently Working On 
+<p>
+• **Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
+• **Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
+• **Customer Analytics** – Studying purchasing behavior and retention patterns  
+• **Product Performance Insights** – Identifying high-margin and high-impact products
 
 ---
 
 #### 🌱 Currently Learning more in detail
+<p>
 • Power BI – Interactive dashboards and business reporting  
 • SQL – Data extraction, joins, and analytical queries 
 • DAX – KPI modeling and business metrics  
@@ -48,13 +49,14 @@ Still learning, still building — one dataset at a time.
 ---
 
 #### Featured Projects
+<p>
 🚕 **NYC Taxi Pricing Optimization**  
     Machine learning models used to redesign congestion surcharge pricing for fairness and revenue optimization.
 
 📦 **Global E-commerce Transaction Audit**  
     Business analytics project identifying revenue leakage, product efficiency, and market risks.
 
-📈 **Energy Appliance Demand Forecasting**  
+🔋 **Energy Appliance Demand Forecasting**  
     Time-series forecasting using ARIMA, SARIMA, and Prophet models to support inventory planning.
 
 ---
