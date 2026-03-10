@@ -26,16 +26,16 @@ Still learning, still building — one dataset at a time.
       
 ## 🔭 What I'm Currently Working On 
 
-📊 E-commerce Data Analytics: Analyzing global transactions to uncover revenue leakage and market risks  
-📈 Sales Trend Analysis: Exploring seasonality and international market performance  
-👥 Customer Retention Insights: Identifying loyal wholesale buyers and repeat purchase behavior  
-📦 Product Profitability: Detecting high-margin products using Python and SQL
+📊 Power BI Dashboard Projects: Creating interactive dashboards for sales, customer, and product analytics
+📈 Business Performance Monitoring: Visualizing KPIs to track revenue trends, seasonal demand, and market growth
+👥 Customer Analytics: Analyzing purchasing behavior and retention patterns through BI storytelling
+📦 Product Insights: Building dashboards to highlight high-performing and high-margin products
 
-## 🌱 Currently Learning 
-• Strengthening SQL skills for advanced data querying and analysis  
-• Building interactive dashboards with Power BI and Tableau  
-• Improving Python for data analysis and visualization  
-• Exploring business analytics techniques for real-world datasets
+## 🌱 Currently Learning more in detail
+• Power BI – Interactive dashboards and business reporting  
+• SQL – Data extraction, joins, and analytical queries 
+• DAX – KPI modeling and business metrics  
+• Data Visualization – Communicating insights through dashboards for real world datasets
 
 
 #### Data Analysis & Visualization
