@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MBA+in+%26+AI+Business+Analytics;Degree+in+Accounting+%26+Finance;Turning+Data+into+Actionable+Insights;Business+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MBA+in+%26+AI+&+Business+Analytics;Degree+in+Accounting+%26+Finance;Turning+Data+into+Actionable+Insights;Business+Analyst" alt="Typing SVG" />
   </a>
 </div>
 
