@@ -21,8 +21,14 @@ I'm Afiqah, an MBA graduate in Business Analytics & AI at Sungkyunkwan Universit
 
 Still learning, still building — one dataset at a time.
 
+<p align="center">────────────── ✦ ──────────────</p>
+
+
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Click here to see my portfolio](https://nafiqahwork.github.io/)
+
+
+<p align="center">────────────── ✦ ──────────────</p>
       
 #### 🔭 What I'm Currently Working On 
 
@@ -31,11 +37,15 @@ Still learning, still building — one dataset at a time.
 👥 **Customer Analytics** – Studying purchasing behavior and retention patterns  
 📦 **Product Performance Insights** – Identifying high-margin and high-impact products
 
+<p align="center">────────────── ✦ ──────────────</p>
+
 #### 🌱 Currently Learning more in detail
 • Power BI – Interactive dashboards and business reporting  
 • SQL – Data extraction, joins, and analytical queries 
 • DAX – KPI modeling and business metrics  
 • Data Visualization – Communicating insights through dashboards for real world datasets
+
+<p align="center">────────────── ✦ ──────────────</p>
 
 #### 📊 Featured Projects
 🚕 **NYC Taxi Pricing Optimization**  
@@ -47,6 +57,7 @@ Business analytics project identifying revenue leakage, product efficiency, and 
 📈 **Energy Appliance Demand Forecasting**  
 Time-series forecasting using ARIMA, SARIMA, and Prophet models to support inventory planning.
 
+<p align="center">────────────── ✦ ──────────────</p>
 
 #### Data Analysis & Visualization
 <p>
@@ -57,11 +68,15 @@ Time-series forecasting using ARIMA, SARIMA, and Prophet models to support inven
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
+<p align="center">────────────── ✦ ──────────────</p>
+
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
+
+<p align="center">────────────── ✦ ──────────────</p>
 
 #### Business Intelligence & Analytics
 <p>
