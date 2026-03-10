@@ -30,7 +30,7 @@ Still learning, still building — one dataset at a time.
 
 ---
       
-#### 🔭 What I'm Currently Working On 
+#### What I'm Currently Working On 
 
 📊 **Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
 📈 **Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
@@ -47,15 +47,15 @@ Still learning, still building — one dataset at a time.
 
 ---
 
-#### 📊 Featured Projects
+#### Featured Projects
 🚕 **NYC Taxi Pricing Optimization**  
-Machine learning models used to redesign congestion surcharge pricing for fairness and revenue optimization.
+    Machine learning models used to redesign congestion surcharge pricing for fairness and revenue optimization.
 
 📦 **Global E-commerce Transaction Audit**  
-Business analytics project identifying revenue leakage, product efficiency, and market risks.
+    Business analytics project identifying revenue leakage, product efficiency, and market risks.
 
 📈 **Energy Appliance Demand Forecasting**  
-Time-series forecasting using ARIMA, SARIMA, and Prophet models to support inventory planning.
+    Time-series forecasting using ARIMA, SARIMA, and Prophet models to support inventory planning.
 
 ---
 
