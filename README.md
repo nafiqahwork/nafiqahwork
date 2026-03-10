@@ -32,10 +32,10 @@ Still learning, still building — one dataset at a time.
       
 #### 🌱 What I'm Currently Working On 
 <p>
-• **Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
-• **Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
-• **Customer Analytics** – Studying purchasing behavior and retention patterns  
-• **Product Performance Insights** – Identifying high-margin and high-impact products
+• Power BI Dashboards** – Building interactive dashboards for sales, customers, and product analytics  
+• Business Performance Analysis** – Visualizing KPIs to track revenue trends and seasonal demand  
+• Customer Analytics** – Studying purchasing behavior and retention patterns  
+• Product Performance Insights** – Identifying high-margin and high-impact products
 
 ---
 
